@@ -10,7 +10,11 @@ INSERT INTO tab_prov VALUES(6,'Proveedor 6','Dirección P6',2666666,19,ROW(62122
 INSERT INTO tab_prov VALUES(7,'Proveedor 7','Dirección P7',7777777,25,ROW(6232323,NULL,NULL,'XYX321'));
 INSERT INTO tab_prov VALUES(8,'Proveedor 8','Dirección P8',2888888,25,ROW(6232323,NULL,NULL,'XYX321'));
 
+INSERT INTO tab_marcas VALUES(1,'marca 1');
+INSERT INTO tab_marcas VALUES(2,'marca 2');
+INSERT INTO tab_marcas VALUES(3,'marca 3');
+INSERT INTO tab_marcas VALUES(4,'marca 4');
+INSERT INTO tab_marcas VALUES(5,'marca 5');
+INSERT INTO tab_marcas VALUES(6,'marca 6');
 
-
---  INSERT INTO "nombre_tabla" VALUES ("valor1", "valor2", ..
 
